@@ -1,0 +1,10 @@
+body{
+    background-color:aquamarine
+}
+table{
+    border: 5px solid black;
+    width: 800px;
+td{
+    border: 3px solid red;
+}
+}
